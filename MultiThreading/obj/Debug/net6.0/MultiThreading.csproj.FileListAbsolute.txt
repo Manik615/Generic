@@ -1,0 +1,15 @@
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\bin\Debug\net6.0\MultiThreading.exe
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\bin\Debug\net6.0\MultiThreading.deps.json
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\bin\Debug\net6.0\MultiThreading.runtimeconfig.json
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\bin\Debug\net6.0\MultiThreading.dll
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\bin\Debug\net6.0\MultiThreading.pdb
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfo.cs
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.dll
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\refint\MultiThreading.dll
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.pdb
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\MultiThreading.genruntimeconfig.cache
+C:\Users\Manikyalarao_Chakka\source\repos\PlayGround\MultiThreading\obj\Debug\net6.0\ref\MultiThreading.dll
