@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\AsyncAwait\\AsyncAwait.csproj",
+      "projectUniqueName": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\AsyncAwait\\AsyncAwait.csproj",
       "projectName": "AsyncAwait",
-      "projectPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\AsyncAwait\\AsyncAwait.csproj",
+      "projectPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\AsyncAwait\\AsyncAwait.csproj",
       "packagesPath": "C:\\Users\\Manikyalarao_Chakka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\AsyncAwait\\obj\\",
+      "outputPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\AsyncAwait\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Manikyalarao_Chakka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,5 +1,4 @@
-﻿using System;
-public class fibonacci
+﻿public class fibonacci
 {
     public void fibo()
     {
@@ -61,6 +60,11 @@ public class fibonacci
             Console.WriteLine("no and nearby location is {0}", c);
         }
 
+    }
+
+    public int Add(int i, int j)
+    {
+        return i + j;
     }
 
 }

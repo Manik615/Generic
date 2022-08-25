@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\PlayGround\\PlayGround.csproj": {}
+    "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\PlayGround\\PlayGround.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\PlayGround\\PlayGround.csproj": {
+    "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\PlayGround\\PlayGround.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\PlayGround\\PlayGround.csproj",
+        "projectUniqueName": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\PlayGround\\PlayGround.csproj",
         "projectName": "PlayGround",
-        "projectPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\PlayGround\\PlayGround.csproj",
+        "projectPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\PlayGround\\PlayGround.csproj",
         "packagesPath": "C:\\Users\\Manikyalarao_Chakka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\PlayGround\\obj\\",
+        "outputPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\PlayGround\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Manikyalarao_Chakka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

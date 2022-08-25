@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XO76X3uMeLqXvBpfnwFrEIm2tM/eRA2DN+GvXgUsRokzPDw7Gjfozr0GHno16hK36bA0+tkA8v3ChHe0QC+3JA==",
+  "dgSpecHash": "8jenWRsC0fbz9zLtXouiMcXkAWVat9DC7JKsT+EJrG0Y3F32Ly4ZF0XBMaUtEke3vHQNUjTx0R0W0wdQrbKSxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\MultiThreading\\MultiThreading.csproj",
+  "projectFilePath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\MultiThreading\\MultiThreading.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\MultiThreading\\MultiThreading.csproj",
+      "projectUniqueName": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\MultiThreading\\MultiThreading.csproj",
       "projectName": "MultiThreading",
-      "projectPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\MultiThreading\\MultiThreading.csproj",
+      "projectPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\MultiThreading\\MultiThreading.csproj",
       "packagesPath": "C:\\Users\\Manikyalarao_Chakka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\MultiThreading\\obj\\",
+      "outputPath": "C:\\Users\\Manikyalarao_Chakka\\source\\repos\\PlayGround\\Generic\\MultiThreading\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Manikyalarao_Chakka\\AppData\\Roaming\\NuGet\\NuGet.Config",
