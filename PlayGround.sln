@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "..\WebApi\WebApi\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{D71C44DB-702B-462F-87EF-1E574C46CE0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{A693CB67-EB5C-4AA7-A7F7-EA73AC1886F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{A693CB67-EB5C-4AA7-A7F7-EA73AC1886F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore", "EFCore\EFCore.csproj", "{1D15C725-578D-496E-9F1B-ED04CA5D7149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A693CB67-EB5C-4AA7-A7F7-EA73AC1886F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A693CB67-EB5C-4AA7-A7F7-EA73AC1886F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A693CB67-EB5C-4AA7-A7F7-EA73AC1886F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D15C725-578D-496E-9F1B-ED04CA5D7149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D15C725-578D-496E-9F1B-ED04CA5D7149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D15C725-578D-496E-9F1B-ED04CA5D7149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D15C725-578D-496E-9F1B-ED04CA5D7149}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
